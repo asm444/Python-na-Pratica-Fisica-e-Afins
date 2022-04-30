@@ -1,0 +1,1 @@
+cd Material && jupyter-notebook
