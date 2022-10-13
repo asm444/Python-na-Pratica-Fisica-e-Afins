@@ -17,11 +17,11 @@ Este repositório contém todos os materiais do minicurso chamado "Python na Pr�
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
-## Contribuindo
+## Gostaria de contribuir?
 
 Contribuições são sempre bem-vindas!
 
-Por favor, siga o `código de conduta` desse projeto e entre em contato com [asm444](https://www.github.com/asm444).
+Por favor entre em contato com [asm444](https://www.github.com/asm444).
 
 
 ## XXVI Semana da Fìsica
