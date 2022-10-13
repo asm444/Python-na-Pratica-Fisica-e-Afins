@@ -21,7 +21,7 @@ Este repositório contém todos os materiais do minicurso chamado "Python na Pr�
 
 Contribuições são sempre bem-vindas!
 
-Por favor, siga o `código de conduta` desse projeto.
+Por favor, siga o `código de conduta` desse projeto e entre em contato com [asm444](https://www.github.com/asm444).
 
 
 ## XXVI Semana da Fìsica
