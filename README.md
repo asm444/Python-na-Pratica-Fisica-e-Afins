@@ -23,3 +23,11 @@ Contribuições são sempre bem-vindas!
 
 Por favor, siga o `código de conduta` desse projeto.
 
+
+## XXVI Semana da Fìsica
+
+Os materiais estão organizados na pasta `Material` e na sequência que o curso foi apresentado.
+
+## Semana da Física para o Ensino Médio
+
+O material apresentado está na pasta `Microcurso de Python`, tinhamos como objetivo apresentar o Python através de um jogo de adivinhação, onde o usuário compete com um boot que construimos juntos.
