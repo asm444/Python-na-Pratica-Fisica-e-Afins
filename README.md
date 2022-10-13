@@ -1,7 +1,7 @@
 
 # Python na Prática Física e Afins
 
-Este repositório contém todos os materiais do minicurso chamado "Python na Prática: Física e Afins" que foi ministrado no evento "XXVI SEMANA DA FÍSICA" no ano de 2022 e no evento de "SEMANA DA FÍSICA PARA O ENSINO MÉDIO".
+Este repositório contém todos os materiais do minicurso chamado "Python na Prática: Física e Afins" que foi ministrado nos eventos "XXVI SEMANA DA FÍSICA - UEL", "XXXIV SEMANA DA MATEMÁTICA - UEL"  e "SEMANA DA FÍSICA PARA O ENSINO MÉDIO - UEL" no ano de 2022.
 
 
 
