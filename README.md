@@ -26,6 +26,8 @@ Por favor entre em contato com [asm444](https://www.github.com/asm444).
 
 ## XXVI Semana da Fìsica
 
+Este minicurso abordará uma introdução à linguagem Python de forma prática, estimulando os alunos a "botarem a mão na massa" e fazerem seus primeiros programas com a ajuda dos monitores. Muitas vezes, ao se estudar programação, é comum se aprender vários comandos, que são esquecidos rapidamente devido à falta de prática. Por este motivo, desejamos apresentar ferramentas de Python conectando a linguagem com temas estudados na graduação sempre que possível.
+
 Os materiais estão organizados na pasta `Material` e na sequência que o curso foi apresentado.
 
 ## Semana da Física para o Ensino Médio
